@@ -13,6 +13,11 @@ body {
     color: #333;
 }
 
+h1 {
+    padding: 40px;
+    color: #cadetblue;
+}
+
 img {
     max-width: 100%; /*no se puede salir o desbordar */
     
@@ -23,6 +28,7 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 30px 0 40px 0;
+    width: 
 
 }
 
